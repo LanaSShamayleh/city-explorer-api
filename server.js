@@ -18,7 +18,7 @@ class ForeCast {
     this.description = description;
   }
 }
-server.get('/weather', (req, res) => {
+server.get('/data/weather.json', (req, res) => {
   let city = req.query.searchQuery;
   let lat = req.query.lat;
   let long = req.query.long;
