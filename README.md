@@ -23,3 +23,5 @@ JavaScript, react , axios and HTML.
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+
+![Alt Text](pic2.png)
