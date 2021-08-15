@@ -25,3 +25,13 @@ JavaScript, react , axios and HTML.
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 ![Alt Text](pic1.png)
+
+Name of feature: Refactoring
+
+Estimate of time needed to complete: 3hours
+
+Start time: 2pm
+
+Finish time: 7pm
+
+Actual time needed to complete: 5pm
